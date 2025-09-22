@@ -1,3 +1,4 @@
+//app/ui/dashboard/nav-links.tsx
 "use client";
 import {
   UserGroupIcon,

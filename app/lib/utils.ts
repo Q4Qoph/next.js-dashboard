@@ -1,3 +1,4 @@
+//app/lib/utils.ts
 import { Revenue } from './definitions';
 
 export const formatCurrency = (amount: number) => {
